@@ -3,4 +3,4 @@
 
 ### Projects
 
-* [CKD](#CKD_Analysis)
+* [CKD Data Analysis](CKD_Analysis/ckdPred.ipynb)
