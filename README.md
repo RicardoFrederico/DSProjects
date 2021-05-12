@@ -5,4 +5,3 @@
 
 * [CKD Data Analysis](CKD_Analysis/ckdPred.ipynb)
 * [WordCloud - Political Speech](Wordcloud_pol/wordTile.ipynb)
-* [wordcloud](Wordcloud_pol/foo.png)
