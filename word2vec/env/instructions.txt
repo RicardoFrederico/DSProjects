@@ -1,0 +1,25 @@
+To create environment:
+
+conda env create -f environment.yml
+
+To activate environment:
+
+conda activate rlsimpy
+
+To deactivate:
+
+conda deactivate
+
+To update environment (from updated yml file):
+
+conda env update --prefix ./env --file environment.yml  --prune
+
+Anaconda:
+
+To list environments:
+
+conda env list
+
+To remove environments:
+
+conda env remove --name [env_name]

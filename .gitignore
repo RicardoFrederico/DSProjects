@@ -1,3 +1,18 @@
 
 CKD_Analysis/kidney_disease.csv
 Wordcloud_pol/stopwords.txt
+word2vec/documents/1_Introduction to Text Classification, LSTM, Word Embeddings and Setting up Google Colab_transcript.txt
+word2vec/documents/2_Preprocessing Data for the Word2Vec Model_transcript.txt
+word2vec/documents/3_Training and Testing the Word2Vec Model_transcript.txt
+word2vec/documents/6_Plotting the Loss & Accuracy and Testing The Model_transcript.txt
+word2vec/documents/5_Training and Evaluating the LSTM Model_transcript.txt
+word2vec/documents/4_Preparing Data for the LSTM Model_transcript.txt
+word2vec/documents/jozefowicz15.pdf
+word2vec/lixo/1.PNG
+word2vec/lixo/2.PNG
+word2vec/lixo/3.PNG
+word2vec/lixo/4.PNG
+word2vec/lixo/5.PNG
+word2vec/lixo/6.PNG
+word2vec/lixo/7.PNG
+word2vec/imdb_embedding_word2vec.txt
