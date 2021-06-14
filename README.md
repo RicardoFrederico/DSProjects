@@ -5,3 +5,4 @@
 
 * [CKD Data Analysis](CKD_Analysis/ckdPred.ipynb)
 * [WordCloud - Political Speech](Wordcloud_pol/wordTile.ipynb)
+* [Text Classification using Word2Vec and LSTMs - Tutorial](word2vec/wordTile.ipynb)
